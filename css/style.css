@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+#cart-interface {
+    display: none;
+}
+.product-card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.product-card img{
+    width: 420px;
+    height: 250px;
+}
